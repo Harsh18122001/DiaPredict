@@ -1,1 +1,1 @@
-# Diabetes-Disease-Prediction-Model
+# DiPredict
